@@ -1,7 +1,15 @@
 {
   "name": "grunt-webMatrix",
-  "description": "Grunt plugin for webMatrix",
+  "version": "1.0.0",
+  "description": "Grunt plugin for webMatrix using grunt-phantomas fro multiple urls",
+  "url":"https://github.com/katoch-anuj/web-performance-matrix.git",
+  "author": "Anuj katoch <katoch.anuj92@gmail.com>,Ajay Tirthani <ajaytirthani@gmail.com>"
   "devDependencies": {},
+  "licenses": [
+    {
+      "type": "MIT",
+    }
+  ], 
   "peerDependencies": {},
   "dependencies": {
     "grunt": "^1.0.1",

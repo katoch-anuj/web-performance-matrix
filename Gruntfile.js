@@ -8,10 +8,8 @@
 
 module.exports = function(grunt) {
     'use strict';
-console.log("hello");
     // Project configuration.
     grunt.initConfig({
-
         webPerformanceMatrix: {
             options: {
                 urls: ['https://www.google.com',
