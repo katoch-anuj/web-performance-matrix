@@ -1,0 +1,10 @@
+{
+  "name": "grunt-webMatrix",
+  "description": "Grunt plugin for webMatrix",
+  "devDependencies": {},
+  "peerDependencies": {},
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-phantomas": "^0.13.0"
+  }
+}
